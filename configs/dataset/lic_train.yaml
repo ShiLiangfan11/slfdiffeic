@@ -1,0 +1,18 @@
+dataset:
+  target: dataset.licdataset.LICDataset
+  params:
+    # Path to the file list.
+    file_list: ./datalists/train.list
+    out_size: 256 # original  is 512
+    crop_type: random
+    use_hflip: False
+    use_rot: False
+
+data_loader:
+  batch_size: 64
+  shuffle: flase # ture for formal training
+  num_workers: 4 # Set lower for data loader  performance
+  drop_last: true
+
+batch_transform:
+  target: dataset.batch_transform.IdentityBatchTransform

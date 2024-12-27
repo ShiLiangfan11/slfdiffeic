@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+47c8f72ebd0e8ca8d7aec6dec27d81de CMakeFiles/pybind11
+019bdea1f5cdea4e808f935aca00da3b CMakeFiles/pybind11-complete
+03789ad477c25ddd84dff32866647c99 pybind11-prefix/src/pybind11-stamp/pybind11-build
+857c78c4b1fa4d23e1e51ffd22d1c12d pybind11-prefix/src/pybind11-stamp/pybind11-configure
+1da618ac5e10319e4762117a97fe3b89 pybind11-prefix/src/pybind11-stamp/pybind11-download
+c905581858c75a535ff58a528675013d pybind11-prefix/src/pybind11-stamp/pybind11-install
+48fcf0cd4099fd3cc2a9325dc0635889 pybind11-prefix/src/pybind11-stamp/pybind11-mkdir
+0be6d072a35648bbec77f3a02c1d019d pybind11-prefix/src/pybind11-stamp/pybind11-patch
+0ec18f9e45cbf3ff271eeade2e5299c3 pybind11-prefix/src/pybind11-stamp/pybind11-test
+e67554d769cc713cbcbc8a7292115c67 pybind11-prefix/src/pybind11-stamp/pybind11-update
